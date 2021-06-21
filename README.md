@@ -1,4 +1,4 @@
-e# notesIOS
+#e notesIOS
 Tp dev mobile INSA
 
 Voici notre projet dev mobile de Thierry XU et Maxime CONSIGNY.
